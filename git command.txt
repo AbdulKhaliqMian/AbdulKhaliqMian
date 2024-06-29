@@ -1,0 +1,12 @@
+Whenever purchase new laptop and windows installation then do following command/actions: -
+step1: git software downlaod (https://git-scm.com/)
+Step2: Opwn new or existing folder cmd / terminal
+Step3: git config --global user.name "AbdulKhaliqMian"
+Step4: git config --global user.email "xrescuer@gmail.com"
+
+
+And for new project: -
+
+Step1: > git init
+Step2: > git add -a
+Step3: > git commit -m "while loop add"
