@@ -5,8 +5,13 @@ Step3: git config --global user.name "AbdulKhaliqMian"
 Step4: git config --global user.email "xrescuer@gmail.com"
 
 
-And for new project: -
+And for every new project: run down command for one time -
+Step5: > git init
 
-Step1: > git init
-Step2: > git add -a
-Step3: > git commit -m "while loop add"
+and for new changes - repeat
+Step6: > git add -a
+Step7-: > git commit -m "while loop add"
+
+to make version of file: -
+Step8: git commit -m "git commands explanations file"
+Step9: git push origin master 
